@@ -9,7 +9,7 @@ django-bootstrap3==12.1.0
 django-braces==1.14.0
 django-crispy-forms==1.9.1
 idna==2.10
-Pillow==8.1.1
+Pillow==8.2.0
 pycountry==19.8.18
 pycparser==2.20
 pytz==2020.1
